@@ -43,4 +43,3 @@
 
 <img align="left" alt="Sahaya Cyril's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahaya-cyril&show_icons=true&theme=radical" width="500" />
 
-<img align="left" alt="Sahaya Cyril's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaya-cyril&layout=compact&theme=radical" width="500"/>
