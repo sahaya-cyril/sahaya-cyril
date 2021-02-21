@@ -42,4 +42,3 @@
 ### <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Sahaya Cyril's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahaya-cyril&show_icons=true&theme=radical" width="500" />
-
